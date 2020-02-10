@@ -1,4 +1,4 @@
-package com.techprimers.aws;
+package com.upen.aws;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

@@ -1,4 +1,4 @@
-package com.techprimers.aws;
+package com.upen.aws;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
